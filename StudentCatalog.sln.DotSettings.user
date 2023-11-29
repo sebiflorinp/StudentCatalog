@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">ERROR</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5eeb23ea_002Db8d0_002D4d7f_002D9719_002Da0a2905a29a6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StudentTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::342CAADA-92C8-4593-8275-8DD4415D3CB8::net7.0::StudentCatalog.Tests.StudentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::342CAADA-92C8-4593-8275-8DD4415D3CB8::net7.0::StudentCatalog.Tests.SubjectTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
